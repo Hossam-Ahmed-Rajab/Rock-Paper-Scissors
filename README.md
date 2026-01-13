@@ -147,7 +147,7 @@ RockPaperScissors/
 ---
 
 ## 🧑‍🎓 Author  
-**Hossam Ahmed Ragab**  
+**Hossam Ahmed Rajab**  
 🎓 4th-Year Student – Faculty of Computers and Information, El Shorouk Academy  
 🧭 Following Programming Advices Roadmap by **Mohammed Abo Hadhoud**  
 
